@@ -3,6 +3,8 @@ Privacy Policy for the ADHD Coping Card iOS Application
 
 Termeni și Condiții
 
+SCORURILE CHESTIONARELOR NU REPREZINTĂ UN DIAGNOSTIC. PENTRU DIAGNOSTIC VĂ RUGĂM CONTACTAȚI UN SPECIALIST !
+
 Condiții Generale pentru utilizarea aplicației ADHD Coping Card
 ACCEPTAREA CONDIȚIILOR
 Prin accesarea aplicației mobile ADHD Coping Card sunteți de acord cu aceste condiții de utilizare. 
@@ -26,6 +28,7 @@ ADHD Coping Card nu poate garanta că prezentele pagini nu conțin erori, și as
 
 Pentru orice nelămurire în legătură cu exercitarea drepturilor dumneavoastră referitoare la utilizarea aplicației și la protecția utilizării vă rugăm să ne contactați la adresa adhdcopingcard@gmail.com
 
+
 Politica de confidențialitate
 
 
@@ -36,7 +39,15 @@ I. Informații
 Acest document are rolul de a vă informa cu privire la prelucrarea datelor dumneavoastră cu caracter personal, în contextul utilizării aplicației ADHD Coping Card. („Aplicația”)
 
 II. Categoriile de date cu caracter personal prelucrate
-Dacă descărcați și utilizați Aplicația, administratorul acesteia va prelucra datele dumneavoastră cu caracter personal pe care le furnizați în mod direct în contextul utilizării, cum ar fi datele pe care le furnizați în cadrul secțiunii de autentificare / date demografice / rezultatele chestionarelor completate în Aplicație.
+Dacă descărcați și utilizați Aplicația, administratorul acesteia va prelucra datele dumneavoastră cu caracter personal pe care le furnizați în mod direct în contextul utilizării, cum ar fi datele pe care le furnizați voluntar în cadrul secțiunii de autentificare: 
+- Vârsta părinte
+- Vârsta copil
+- Genul copilului și al părintelui
+- Statutul socio-economic
+- Mediul rural / urban
+- Tipul de organizare familială
+- Diagnostic și/sau tratament ADHD
+ / date demografice / rezultatele chestionarelor completate în Aplicație.
  
 III. Scopurile și temeiurile prelucrării
 Furnizarea datelor dumneavoastră în acest scop este voluntară. Refuzul furnizării consimțământului pentru prelucrarea datelor dumneavoastră în acest scop nu va avea urmări negative pentru dumneavoastră.
