@@ -51,7 +51,7 @@ Dacă descărcați și utilizați Aplicația, administratorul acesteia va preluc
  
 III. Scopurile și temeiurile prelucrării
 Furnizarea datelor dumneavoastră în acest scop este voluntară. Refuzul furnizării consimțământului pentru prelucrarea datelor dumneavoastră în acest scop nu va avea urmări negative pentru dumneavoastră.
-în scopul raportări privind modul de funcționare a Aplicației, respectiv  efectuării diverselor analize statistice pentru elaborarea unui studiu științific. 
+în scopul raportări privind modul de funcționare a Aplicației, respectiv  efectuării diverselor analize statistice pentru elaborarea unui studiu științific de către Psiholog Kertesz Reka.
 
 IV. Durata pentru care vă prelucrăm datele
 Ca principiu, administratorul  Aplicației va prelucra datele dumneavoastră cu caracter personal atât cât este necesar pentru realizarea scopurilor de prelucrare menționate mai sus.
